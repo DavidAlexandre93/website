@@ -358,29 +358,17 @@ $msg = $_REQUEST['msg'];*/
         </div>
   
       <div class="education-block shadow-large">
-            <h3>Cultura Inglesa</h3>
+            <h3>Aula particular</h3>
             <span class="education-date">Dezembro 2019 - Atual</span>
             <h4>Especialização em Inglês</h4>
             <ul>
                 <li>
-                   
-                    Escola especializada em inglês com cultura, tecnologia e excelência acadêmica. 
+                Aula particular de inglês com foco em conversão para fluência na língua.
                 </li>
             </ul>
         </div>
          
-        <div class="education-block shadow-large">
-            <h3>Impacta Treinamentos</h3>
-            <span class="education-date">Julho 2019 - Atual</span>
-            <h4>Formação em Desenvolvimento de Componentes Web e Mobile com ReactJS, Redux e React Native</h4>
-            <ul>
-                <li>
-                    Escola e Faculdade especializada em treinamentos voltada para tecnologias, com maior excelência no quesito. 
-                </li>
-            </ul>
-        </div>
         <!-- End. education-block -->
-        
         <!--<div class="education-block shadow-large">
             <h3>Impacta Treinamentos</h3>
             <span class="education-date">Julho 2019 - Atual</span>
