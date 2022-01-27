@@ -303,9 +303,7 @@ $msg = $_REQUEST['msg'];*/
             </div>
 
             <div class="shadow-large" data-date="Março 2015 – Fevereiro 2018">
-            <div class="project-image">
-            <img Style="height:60px;width:60px" src="images/cpk.jpeg" />
-            </div>
+           
                 <h3>Chrompack Instrumentos Científicos EPP</h3>
                 <h4>Electronic Engineering</h4>
                 <p>
@@ -332,6 +330,9 @@ $msg = $_REQUEST['msg'];*/
        
         <h2 class="heading">Formação</h2>
         <div class="education-block shadow-large">
+        <div class="project-image">
+            <img Style="height:60px;width:60px" src="images/etec.png" />
+            </div>
             <h3>Centro Estadual de Educação Tecnológica Paula Souza</h3>
             <span class="education-date">Fevereiro 2011 - Dezembro 2013</span>
             <h4>Técnico em Eletrônica</h4>
@@ -346,6 +347,9 @@ $msg = $_REQUEST['msg'];*/
         </div>
         
         <div class="education-block shadow-large">
+        <div class="project-image">
+            <img Style="height:60px;width:60px" src="images/etec.png" />
+            </div>
             <h3>Centro Estadual de Educação Tecnológica Paula Souza</h3>
             <span class="education-date">Fevereiro 2017 - Julho 2018</span>
             <h4>Técnico em Informática(Desenvolvimento de sistemas)</h4>
@@ -360,7 +364,10 @@ $msg = $_REQUEST['msg'];*/
         </div>
       
         <div Class="education-block shadow-large">
-            <h3>Universidade Nove de Julho-UNINOVE</h3>
+        <div class="project-image">
+            <img Style="height:60px;width:60px" src="images/unasp.png" />
+            </div>
+            <h3>Centro Universitário Adventista de São Paulo</h3>
             <span class="education-date">Agosto 2018 - Atual</span>
             <h4>Ciência da Computação</h4>
             <ul>
