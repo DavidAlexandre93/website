@@ -448,8 +448,9 @@ $msg = $_REQUEST['msg'];*/
 
     <!-- INICIO DO CODIGO "HABILIDADES" -->
     <div id="skills" style="background-color:white">
-    <img style="height=10;width=20;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-
+    <di style="height=10;width=20;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+     </div>
         <h2 class="heading">Habilidades</h2>
             
         <ul>
