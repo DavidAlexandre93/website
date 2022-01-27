@@ -258,7 +258,7 @@ $msg = $_REQUEST['msg'];*/
 
         <div class="shadow-large" data-date="Agosto 2021 – Outubro 2021">
         <div class="project-image">
-            <img Style="height:60px;width:60px" src="images/dasa.png" />
+            <img Style="height:70px;width:70px" src="images/dasa.png" />
             </div>
         <h3>Grupo Dasa</h3>
         <h4>Technology Analyst II</h4>
@@ -273,7 +273,7 @@ $msg = $_REQUEST['msg'];*/
 
         <div class="shadow-large" data-date="Junho 2020 – Maio 2021">
         <div class="project-image">
-            <img Style="height:60px;width:60px" src="images/itau.jpg" />
+            <img Style="height:70px;width:70px" src="images/itau.jpg" />
         </div>
               <h3>Banco Itaú Unibanco</h3>
               <h4>IT engineering analyst</h4>
@@ -282,7 +282,7 @@ $msg = $_REQUEST['msg'];*/
 
             <div class="shadow-large" data-date="Novembro 2018 – Novembro 2019">
             <div class="project-image">
-            <img Style="height:60px;width:60px" src="images/cognizant.png" />
+            <img Style="height:70px;width:70px" src="images/cognizant.png" />
             </div>
                 <h3>Cognizant Technology Solutions</h3>
                 <h4>Test Automation Engineer</h4>
@@ -293,7 +293,7 @@ $msg = $_REQUEST['msg'];*/
 
             <div class="shadow-large" data-date="Março 2018 – Novembro 2018">
             <div class="project-image">
-            <img Style="height:60px;width:60px" src="images/techmahindra.png" />
+            <img Style="height:70px;width:70px" src="images/techmahindra.png" />
             </div>
             <h3>Tech Mahindra Limited</h3>
                 <h4>Software Quality Assurance Tester</h4>
@@ -313,7 +313,7 @@ $msg = $_REQUEST['msg'];*/
 
             <div class="shadow-large" data-date="Março 2011 – Maio 2014">
             <div class="project-image">
-            <img Style="height:60px;width:60px" src="images/euro.png" />
+            <img Style="height:70px;width:70px" src="images/euro.png" />
             </div>
                 <h3>Eurotronics Montagens Eletrônicas Ltda</h3>
                 <h4>Electronic Engineering</h4>
@@ -331,7 +331,7 @@ $msg = $_REQUEST['msg'];*/
         <h2 class="heading">Formação</h2>
         <div class="education-block shadow-large">
         <div class="project-image">
-            <img Style="height:60px;width:60px" src="images/etec.png" />
+            <img Style="height:70px;width:70px" src="images/etec.png" />
             </div>
             <h3>ETEC - Centro Paula Souza</h3>
             <span class="education-date">Fevereiro 2011 - Dezembro 2013</span>
@@ -348,7 +348,7 @@ $msg = $_REQUEST['msg'];*/
         
         <div class="education-block shadow-large">
         <div class="project-image">
-            <img Style="height:60px;width:60px" src="images/etec.png" />
+            <img Style="height:70px;width:70px" src="images/etec.png" />
             </div>
             <h3>ETEC - Centro Paula Souza</h3>
             <span class="education-date">Fevereiro 2017 - Julho 2018</span>
@@ -365,7 +365,7 @@ $msg = $_REQUEST['msg'];*/
       
         <div Class="education-block shadow-large">
         <div class="project-image">
-            <img Style="height:60px;width:60px" src="images/unasp.png" />
+            <img Style="height:70px;width:70px" src="images/unasp.png" />
             </div>
             <h3>Centro Universitário Adventista de São Paulo</h3>
             <span class="education-date">Agosto 2018 - Atual</span>
