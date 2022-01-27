@@ -333,7 +333,7 @@ $msg = $_REQUEST['msg'];*/
         <div class="project-image">
             <img Style="height:60px;width:60px" src="images/etec.png" />
             </div>
-            <h3>Centro Estadual de Educação Tecnológica Paula Souza</h3>
+            <h3>ETEC - Centro Paula Souza</h3>
             <span class="education-date">Fevereiro 2011 - Dezembro 2013</span>
             <h4>Técnico em Eletrônica</h4>
             <ul>
@@ -350,7 +350,7 @@ $msg = $_REQUEST['msg'];*/
         <div class="project-image">
             <img Style="height:60px;width:60px" src="images/etec.png" />
             </div>
-            <h3>Centro Estadual de Educação Tecnológica Paula Souza</h3>
+            <h3>ETEC - Centro Paula Souza</h3>
             <span class="education-date">Fevereiro 2017 - Julho 2018</span>
             <h4>Técnico em Informática(Desenvolvimento de sistemas)</h4>
             <ul>
