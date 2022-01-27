@@ -463,7 +463,7 @@ $msg = $_REQUEST['msg'];*/
             <li class="shadow-large">MongoDB</li>
             <li class="shadow-large">ReactJS</li>
             <li class="shadow-large">VueJS</li>
-            <i class="devicon-java-plain-wordmark colored"></i>
+            <i style="width:20px;height:20px" class="devicon-java-plain-wordmark colored"></i>
 
 
             <li class="shadow-large">Bootstrap 4</li>
