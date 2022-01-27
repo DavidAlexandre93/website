@@ -1,8 +1,8 @@
 <?php
-    $servidor = "177.52.182.44";
-    $usuario = "davidale_fernandes";
+    $servidor = "192.185.176.163";
+    $usuario = "zerore14_david93";
     $senha = "agmtech100r";
-    $dbname = "davidale_website";
+    $dbname = "zerore14_website";
     
     //Criar a conexao
     $conexao = mysqli_connect($servidor, $usuario, $senha, $dbname);
