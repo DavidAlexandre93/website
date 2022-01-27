@@ -177,7 +177,7 @@ $msg = $_REQUEST['msg'];*/
              <a href="https://onedrive.live.com/embed?cid=6D3C8BF67AB3908F&resid=6D3C8BF67AB3908F%2119054&authkey=AEvWwS2MJ3wij7I&em=2"><img src="images/eua.png" alt=""></a>
              
              <br><br><br>
-            <a href="tela-login-cadastro.php" style="margin-bottom:2.5%" id="clickevent" class="btn-rounded-white shadow-large"><b>Page I.T</b></a>
+            <a href="tela-login-cadastro.php" style="margin-bottom:2%" id="clickevent" class="btn-rounded-white shadow-large"><b>Page I.T</b></a>
           <!-- FIM DO SUBTITULO DA FOTO DO PERFIL E LINKS DE CURRÍCULO -->
         </div>
        <!-- FIM DA ESTRUTURAÇÃO BOOTSTRAP "LEAD-CONTENT"-->
