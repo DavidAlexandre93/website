@@ -165,7 +165,7 @@ $msg = $_REQUEST['msg'];*/
 
           <!-- INICIO DO CÓDIGO PARA FOTO DE PERFIL-->
           <div id="lead-content" style="border-radius:50%; display: grid">
-        <img class="circle" style="margin-bottom:350%;border-radius: 50%;border: 6px solid white;width: 120px;height: 120px" />
+        <img class="circle" style="margin-bottom:380%;border-radius: 50%;border: 6px solid white;width: 120px;height: 120px" />
         </div>
         <!-- FIM DO CÓDIGO PARA FOTO DE PERFIL-->
             
