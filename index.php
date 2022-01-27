@@ -255,13 +255,25 @@ $msg = $_REQUEST['msg'];*/
         <h2 class="heading">Experiência</h2>
         <div id="experience-timeline">
 
-        <div class="shadow-large" data-date="Novembro 2018 – Atual">
-              <h3>Cognizant Technology Solutions</h3>
-              <h4>Test Automation Engineer</h4>
-              <p>Teste</p>
+        <div class="shadow-large" data-date="Agosto 2021 – Outubro 2021">
+        <h3>Grupo Dasa</h3>
+        <h4>Technology Analyst II</h4>
+        <p>Estruturação e implementação de automação de testes em um
+           novo ambiente para validação de sistemas de acompanhamento médico, onde realizei a
+           padronização de automação Cypress utilizando NodeJS e JavaScript no desenvolvimento,
+           implementação de BDD com linguagem gherkin e estrutura de projeto em Page Objects ou
+           Custom Commands, realização de automação backend para API com validação de
+           resultados obtidos esperados no retorno das requisições e integração continua com jenkins
+           e pipeline</p>
         </div>
-        
-            <div class="shadow-large" data-date="Novembro 2018 – Atual">
+
+        <div class="shadow-large" data-date="Junho 2020 – Maio 2021">
+              <h3>Banco Itaú Unibanco</h3>
+              <h4>IT engineering analyst</h4>
+              <p>Configuração e sustentação das aplicações Silk Central e Mobile Center fornecidas pela empresa Israelense Microfocus, Silk Central sendo utilizado para automatizar testes e modelagem de teste também gerando seus respectivos relatórios e Mobile Center um “farm” de aparelhos celulares que são utilizados para automatizar testes para devices reais, nestas duas aplicações era realizado o desenvolvimento de novas funcionalidades ou plugins em código Java e subindo parte da aplicação para AWS onde utilizamos o Docker no apoio para determinada função de execução em servidor. Acessando servidores das aplicações para realizar determinadas configurações ou no serviço e configuração de banco de dados Oracle. Prestava apoio com base na sustentação para respectivos problemas que ocorressem com usuários finais ou aplicação no geral.</p>
+        </div>
+
+            <div class="shadow-large" data-date="Novembro 2018 – Novembro 2019">
                 <h3>Cognizant Technology Solutions</h3>
                 <h4>Test Automation Engineer</h4>
                 <p>
