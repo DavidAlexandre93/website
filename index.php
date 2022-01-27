@@ -23,6 +23,7 @@ $msg = $_REQUEST['msg'];*/
     <link href="css/styles.css" rel="stylesheet">
     <link href="css/fundodetela.css" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
     <!-- SCRIPTS -->  
     <script src="js/bootstrap.min.js"></script>
     <script src="jquery/jquery.min.js"></script>
@@ -449,16 +450,7 @@ $msg = $_REQUEST['msg'];*/
     <!-- INICIO DO CODIGO "HABILIDADES" -->
     <div id="skills" style="background-color:white">
 
-    
-
-   
-        <h2 class="heading">Habilidades</h2>
-
-        <figure>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Minha Figura">
-  <figcaption>Informações da Figura</figcaption>
-</figure>
-            
+        <h2 class="heading">Habilidades</h2>            
         <ul>
             <li class="shadow-large">CI/CD</li>
             <li class="shadow-large">Kubernetes</li>
@@ -471,6 +463,8 @@ $msg = $_REQUEST['msg'];*/
             <li class="shadow-large">MongoDB</li>
             <li class="shadow-large">ReactJS</li>
             <li class="shadow-large">VueJS</li>
+            <i class="devicon-java-plain colored"></i>
+
             <li class="shadow-large">Bootstrap 4</li>
             <li class="shadow-large">JQuery</li>
             <li class="shadow-large">ECMAScript 6,7,8</li>
