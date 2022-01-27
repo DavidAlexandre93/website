@@ -269,6 +269,9 @@ $msg = $_REQUEST['msg'];*/
         </div>
 
         <div class="shadow-large" data-date="Junho 2020 – Maio 2021">
+        <div class="project-image">
+            <img src="images/hortelan.jpg" />
+        </div>
               <h3>Banco Itaú Unibanco</h3>
               <h4>IT engineering analyst</h4>
               <p>Configuração e sustentação das aplicações Silk Central e Mobile Center fornecidas pela empresa Israelense Microfocus, Silk Central sendo utilizado para automatizar testes e modelagem de teste também gerando seus respectivos relatórios e Mobile Center um “farm” de aparelhos celulares que são utilizados para automatizar testes para devices reais, nestas duas aplicações era realizado o desenvolvimento de novas funcionalidades ou plugins em código Java e subindo parte da aplicação para AWS onde utilizamos o Docker no apoio para determinada função de execução em servidor. Acessando servidores das aplicações para realizar determinadas configurações ou no serviço e configuração de banco de dados Oracle. Prestava apoio com base na sustentação para respectivos problemas que ocorressem com usuários finais ou aplicação no geral.</p>
