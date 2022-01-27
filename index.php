@@ -160,7 +160,7 @@ $msg = $_REQUEST['msg'];*/
    <!-- INICIO DA ESTRUTURAÇÃO BOOTSTRAP "LEAD-CONTENT"-->
     <div id="lead">
         <!-- INICIO DO CÓDIGO PARA FOTO DE PERFIL-->
-        <div id="lead-content" style="border-radius:50%; display: inline_block">
+        <div id="lead-content" style="border-radius:50%; display: flex">
         <img class="circle" style="margin-bottom:429%;border-radius: 50%;border: 6px solid white;width: 120px;height: 120px" />
         </div>
         <!-- FIM DO CÓDIGO PARA FOTO DE PERFIL-->
@@ -450,6 +450,8 @@ $msg = $_REQUEST['msg'];*/
     <div id="skills" style="background-color:white">
         
         <h2 class="heading">Habilidades</h2>
+        <img style="height=10;width=20;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+            
         <ul>
             <li class="shadow-large">CI/CD</li>
             <li class="shadow-large">Kubernetes</li>
@@ -477,9 +479,6 @@ $msg = $_REQUEST['msg'];*/
             <li class="shadow-large">Firebase</li>
             <li class="shadow-large">SQLServer</li>
             <li class="shadow-large">Laravel</li>
-         
-            <img style="height=10;width=20;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-            
             <li class="shadow-large">Java</li>
             <li class="shadow-large">SpringMVC</li>
             <li class="shadow-large">Heroku</li>
