@@ -183,7 +183,7 @@ $msg = $_REQUEST['msg'];*/
        <!-- FIM DA ESTRUTURAÇÃO BOOTSTRAP "LEAD-CONTENT"-->
       
        <!-- INICIO SETA DA "MAO" PARA DESCER "LEAD-DOWN" -->
-        <div id="lead-down" style="font-size: 35px; margin-bottom:380%">
+        <div id="lead-down" style="font-size: 35px; margin-bottom:50%">
             <span>
                 <a href=""><i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
             </span>
