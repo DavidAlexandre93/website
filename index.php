@@ -478,7 +478,7 @@ $msg = $_REQUEST['msg'];*/
             <li class="shadow-large">SQLServer</li>
             <li class="shadow-large">Laravel</li>
          
-            <img style="align=center; alt=David-Java; height=30; width=40;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+            <img style="height=10;width=20;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
             
             <li class="shadow-large">Java</li>
             <li class="shadow-large">SpringMVC</li>
