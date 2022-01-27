@@ -477,7 +477,7 @@ $msg = $_REQUEST['msg'];*/
             <li class="shadow-large">Firebase</li>
             <li class="shadow-large">SQLServer</li>
             <li class="shadow-large">Laravel</li>
-            <img class="shadow-large" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
             <li class="shadow-large">Java</li>
             <li class="shadow-large">SpringMVC</li>
             <li class="shadow-large">Heroku</li>
