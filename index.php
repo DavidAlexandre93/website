@@ -170,7 +170,7 @@ $msg = $_REQUEST['msg'];*/
 
           <!-- INICIO DO SUBTITULO DA FOTO DO PERFIL E LINKS DE CURRÍCULO -->
             <h1>David Alexandre Fernandes</h1>
-            <h2>Fullstack Developer | Software Quality</h2><h2>Download Currículo</h2>
+            <h2>Fullstack Developer | Software Quality | Cloud Computing</h2><h2>Download Currículo</h2>
             
             <a href="https://onedrive.live.com/embed?cid=6D3C8BF67AB3908F&resid=6D3C8BF67AB3908F%2119091&authkey=AGZLjqlovcjHvuQ&em=2"><img src="images/brasil.png" alt=""></a>
             
@@ -183,7 +183,7 @@ $msg = $_REQUEST['msg'];*/
        <!-- FIM DA ESTRUTURAÇÃO BOOTSTRAP "LEAD-CONTENT"-->
       
        <!-- INICIO SETA DA "MAO" PARA DESCER "LEAD-DOWN" -->
-        <div id="lead-down" style="font-size: 35px; margin-bottom:-2%">
+        <div id="lead-down" style="font-size: 35px; margin-bottom:-1%">
             <span>
                 <a href=""><i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
             </span>
