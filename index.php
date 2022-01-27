@@ -160,7 +160,7 @@ $msg = $_REQUEST['msg'];*/
    <!-- INICIO DA ESTRUTURAÇÃO BOOTSTRAP "LEAD-CONTENT"-->
     <div id="lead">
         <!-- INICIO DO CÓDIGO PARA FOTO DE PERFIL-->
-        <div id="lead-content" style="border-radius:50%; display: flex">
+        <div id="lead-content" style="border-radius:50%; display: grid">
         <img class="circle" style="margin-bottom:429%;border-radius: 50%;border: 6px solid white;width: 120px;height: 120px" />
         </div>
         <!-- FIM DO CÓDIGO PARA FOTO DE PERFIL-->
@@ -448,9 +448,9 @@ $msg = $_REQUEST['msg'];*/
 
     <!-- INICIO DO CODIGO "HABILIDADES" -->
     <div id="skills" style="background-color:white">
-        
+    <img style="height=10;width=20;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+
         <h2 class="heading">Habilidades</h2>
-        <img style="height=10;width=20;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
             
         <ul>
             <li class="shadow-large">CI/CD</li>
