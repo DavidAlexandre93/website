@@ -463,7 +463,7 @@ $msg = $_REQUEST['msg'];*/
             <li class="shadow-large">MongoDB</li>
             <li class="shadow-large">ReactJS</li>
             <li class="shadow-large">VueJS</li>
-            <i class="devicon-java-plain-wordmark colored; shadow-large">Java</i>
+           
 
 
             <li class="shadow-large">Bootstrap 4</li>
@@ -481,7 +481,7 @@ $msg = $_REQUEST['msg'];*/
             <li class="shadow-large">Firebase</li>
             <li class="shadow-large">SQLServer</li>
             <li class="shadow-large">Laravel</li>
-            <li class="shadow-large">Java</li>
+            <li class="shadow-large; devicon-java-plain-wordmark colored">Java</li>
             <li class="shadow-large">SpringMVC</li>
             <li class="shadow-large">Heroku</li>
             <li class="shadow-large">React Native</li>
