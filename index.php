@@ -257,6 +257,9 @@ $msg = $_REQUEST['msg'];*/
         <div id="experience-timeline">
 
         <div class="shadow-large" data-date="Agosto 2021 – Outubro 2021">
+        <div class="project-image">
+            <img Style="height:60px;width:60px" src="images/dasa.png" />
+            </div>
         <h3>Grupo Dasa</h3>
         <h4>Technology Analyst II</h4>
         <p>Estruturação e implementação de automação de testes em um
@@ -270,7 +273,7 @@ $msg = $_REQUEST['msg'];*/
 
         <div class="shadow-large" data-date="Junho 2020 – Maio 2021">
         <div class="project-image">
-            <img Style="height:60px;width:60px" src="images/hortelan.jpg" />
+            <img Style="height:60px;width:60px" src="images/itau.jpg" />
         </div>
               <h3>Banco Itaú Unibanco</h3>
               <h4>IT engineering analyst</h4>
@@ -278,6 +281,9 @@ $msg = $_REQUEST['msg'];*/
         </div>
 
             <div class="shadow-large" data-date="Novembro 2018 – Novembro 2019">
+            <div class="project-image">
+            <img Style="height:60px;width:60px" src="images/cognizant.png" />
+            </div>
                 <h3>Cognizant Technology Solutions</h3>
                 <h4>Test Automation Engineer</h4>
                 <p>
@@ -286,6 +292,9 @@ $msg = $_REQUEST['msg'];*/
             </div>
 
             <div class="shadow-large" data-date="Março 2018 – Novembro 2018">
+            <div class="project-image">
+            <img Style="height:60px;width:60px" src="images/techmahindra.png" />
+            </div>
             <h3>Tech Mahindra IT Services, Outsourcing & IT Consulting</h3>
                 <h4>Software Quality Assurance Tester</h4>
                 <p>
