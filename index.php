@@ -295,7 +295,7 @@ $msg = $_REQUEST['msg'];*/
             <div class="project-image">
             <img Style="height:60px;width:60px" src="images/techmahindra.png" />
             </div>
-            <h3>Tech Mahindra IT Services, Outsourcing & IT Consulting</h3>
+            <h3>Tech Mahindra Limited</h3>
                 <h4>Software Quality Assurance Tester</h4>
                 <p>
                 Executar o planos e casos de testes de ponta a ponta juntamente com gerenciamento de defeitos na aplicação ALM (Application lifecycle management). Utilizando banco de dados SQLDeveloper para consultar, alterar e inserir dados nas tabelas na base de dados e codificação em Unix no Putty para realização de testes integrados com acesso a máquinas do servidor. Aplicando testes massivos utilizando API com SOPUI e Jmeter na utilização de códigos XML. Atendendo a projetos na área de Telecom para empresa Telefônica Vivo. 
@@ -303,6 +303,9 @@ $msg = $_REQUEST['msg'];*/
             </div>
 
             <div class="shadow-large" data-date="Março 2015 – Fevereiro 2018">
+            <div class="project-image">
+            <img Style="height:60px;width:60px" src="images/cpk.jpeg" />
+            </div>
                 <h3>Chrompack Instrumentos Científicos EPP</h3>
                 <h4>Electronic Engineering</h4>
                 <p>
@@ -311,6 +314,9 @@ $msg = $_REQUEST['msg'];*/
             </div>
 
             <div class="shadow-large" data-date="Março 2011 – Maio 2014">
+            <div class="project-image">
+            <img Style="height:60px;width:60px" src="images/euro.png" />
+            </div>
                 <h3>Eurotronics Montagens Eletrônicas Ltda</h3>
                 <h4>Electronic Engineering</h4>
                 <p>
