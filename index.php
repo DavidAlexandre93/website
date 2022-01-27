@@ -269,8 +269,8 @@ $msg = $_REQUEST['msg'];*/
         </div>
 
         <div class="shadow-large" data-date="Junho 2020 – Maio 2021">
-        <div class="project-image" Style="height: 50px; width: 50px">
-            <img src="images/hortelan.jpg" />
+        <div class="project-image">
+            <img Style="height: 50px; width: 50px" src="images/hortelan.jpg" />
         </div>
               <h3>Banco Itaú Unibanco</h3>
               <h4>IT engineering analyst</h4>
