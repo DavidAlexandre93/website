@@ -23,7 +23,6 @@ $msg = $_REQUEST['msg'];*/
     <link href="css/styles.css" rel="stylesheet">
     <link href="css/fundodetela.css" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
     <!-- SCRIPTS -->  
     <script src="js/bootstrap.min.js"></script>
     <script src="jquery/jquery.min.js"></script>
@@ -162,7 +161,7 @@ $msg = $_REQUEST['msg'];*/
     <div id="lead">
         <!-- INICIO DO CÓDIGO PARA FOTO DE PERFIL-->
         <div id="lead-content" style="border-radius:50%; display: grid">
-        <img class="circle" style="margin-bottom:429%;border-radius: 50%;border: 6px solid white;width: 120px;height: 120px" />
+        <img class="circle" style="margin-bottom:400%;border-radius: 50%;border: 6px solid white;width: 120px;height: 120px" />
         </div>
         <!-- FIM DO CÓDIGO PARA FOTO DE PERFIL-->
         
@@ -481,7 +480,7 @@ $msg = $_REQUEST['msg'];*/
             <li class="shadow-large">Firebase</li>
             <li class="shadow-large">SQLServer</li>
             <li class="shadow-large">Laravel</li>
-            <li class="shadow-large; devicon-java-plain-wordmark colored">Java</li>
+            <li class="shadow-large">Java</li>
             <li class="shadow-large">SpringMVC</li>
             <li class="shadow-large">Heroku</li>
             <li class="shadow-large">React Native</li>
