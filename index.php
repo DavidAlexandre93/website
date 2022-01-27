@@ -252,10 +252,15 @@ $msg = $_REQUEST['msg'];*/
 
     <!-- INICIO DO CODIGO "EXPERIENCIA" -->
     <div id="experience" class="background-alt">
-        
-        
         <h2 class="heading">Experiência</h2>
         <div id="experience-timeline">
+
+        <div class="shadow-large" data-date="Novembro 2018 – Atual">
+              <h3>Cognizant Technology Solutions</h3>
+              <h4>Test Automation Engineer</h4>
+              <p>Teste</p>
+        </div>
+        
             <div class="shadow-large" data-date="Novembro 2018 – Atual">
                 <h3>Cognizant Technology Solutions</h3>
                 <h4>Test Automation Engineer</h4>
