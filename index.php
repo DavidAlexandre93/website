@@ -159,13 +159,15 @@ $msg = $_REQUEST['msg'];*/
    
    <!-- INICIO DA ESTRUTURAÇÃO BOOTSTRAP "LEAD-CONTENT"-->
     <div id="lead">
-        <!-- INICIO DO CÓDIGO PARA FOTO DE PERFIL-->
-        <div id="lead-content" style="border-radius:50%; display: grid">
+      
+        
+        <div id="lead-content" class="selecao-details  col-lg-10 col-md-6 col-sm-12 col-xs-12">
+
+          <!-- INICIO DO CÓDIGO PARA FOTO DE PERFIL-->
+          <div id="lead-content" style="border-radius:50%; display: grid">
         <img class="circle" style="margin-bottom:350%;border-radius: 50%;border: 6px solid white;width: 120px;height: 120px" />
         </div>
         <!-- FIM DO CÓDIGO PARA FOTO DE PERFIL-->
-        
-        <div id="lead-content" class="selecao-details  col-lg-10 col-md-6 col-sm-12 col-xs-12">
             
           <!-- INICIO DO SUBTITULO DA FOTO DO PERFIL E LINKS DE CURRÍCULO -->
             <h1>David Alexandre Fernandes</h1>
