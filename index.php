@@ -143,28 +143,9 @@ $msg = $_REQUEST['msg'];*/
            
    <!-- INICIO DO MENU FIXO -->        
    <ul id=menuFixo>
-     <li><a href="tela-login-cadastro.php"<b>Página Exclusiva</b></a>
+     <li><a href="tela-login-cadastro.php"<b>Page I.T</b></a>
      <li><a id="clickcotersFixo" href="">Coters</a>
-     <li><a id="clickamazon" href="">Site Amazon</a>
-     <li><a id="clickplanilha" href="">Planilha Controle Gastos</a>
-     <script>
-            var clickButton = document.querySelector("#clickamazon");
-            clickButton.addEventListener('click', displayDialog, false);
-            function displayDialog(e) {
-            //window.alert("You clicked me!");
-            window.open('https://amzn.to/3fyqdRn');   
-            }
-     </script>
-     
-      <script>
-            var clickButton = document.querySelector("#clickplanilha");
-            clickButton.addEventListener('click', displayDialog, false);
-            function displayDialog(e) {
-            //window.alert("You clicked me!");
-            window.open('https://mega.nz/file/Zw0zmaAa#qDLxzlQIn-P4D73a7sf1bxPmh58BTzPS1GGxeA6wrhI');   
-            }
-     </script>
-            
+          
      <script>
             var clickButton = document.querySelector("#clickcotersFixo");
             clickButton.addEventListener('click', displayDialog, false);
@@ -188,14 +169,14 @@ $msg = $_REQUEST['msg'];*/
             
           <!-- INICIO DO SUBTITULO DA FOTO DO PERFIL E LINKS DE CURRÍCULO -->
             <h1>David Alexandre Fernandes</h1>
-            <h2>Automation Test Web and Mobile & Developer FullStack</h2><h2>Download Currículo</h2>
+            <h2>Fullstack Developer | Software Quality</h2><h2>Download Currículo</h2>
             
             <a href="https://onedrive.live.com/embed?cid=6D3C8BF67AB3908F&resid=6D3C8BF67AB3908F%2119091&authkey=AGZLjqlovcjHvuQ&em=2"><img src="images/brasil.png" alt=""></a>
             
              <a href="https://onedrive.live.com/embed?cid=6D3C8BF67AB3908F&resid=6D3C8BF67AB3908F%2119054&authkey=AEvWwS2MJ3wij7I&em=2"><img src="images/eua.png" alt=""></a>
              
              <br><br><br>
-            <a href="tela-login-cadastro.php" id="clickevent" class="btn-rounded-white shadow-large"><b>Página Exclusiva</b></a>
+            <a href="tela-login-cadastro.php" id="clickevent" class="btn-rounded-white shadow-large"><b>Page I.T</b></a>
           <!-- FIM DO SUBTITULO DA FOTO DO PERFIL E LINKS DE CURRÍCULO -->
         </div>
        <!-- FIM DA ESTRUTURAÇÃO BOOTSTRAP "LEAD-CONTENT"-->
@@ -257,7 +238,8 @@ $msg = $_REQUEST['msg'];*/
                 <div class="col-md-10">
                     <p>      
                              <br>
-                        Tenho 28 anos, nascido no estado do Mato Grosso e atualmente moro em São Paulo a mais de 13 anos, sou formado como técnico eletrônico e técnico em informática, atualmente estudo Ciência da Computação e realizo inúmeros cursos para me especializar ainda mais em tecnologias, sou entusiasta na tecnologia da informação, muito focado e detalhista. Iniciei minha carreira na engenharia eletrônica com mais de 7 anos de experiência, migrei para área de tecnologia em uma empresa indiana de software e atualmente estou em uma empresa americana de software tendo a função de automatizador de software, tenho como meu principal hobby pedalar minha bike e praticar futsal, academia. Sou músico instrumentista a mais de 10 anos com saxofone e clarinete. 
+                             27 anos, natural do estado do Mato Grosso e atualmente residindo na região metropolitana de São Paulo, formado em técnico eletrônico e técnico em informática pela instituição ETEC, atualmente cursando Ciência da Computação no Centro Universitário UNASP, realizando inúmeros cursos de especialização relacionados a diversas tecnologias; entusiasta da tecnologia da informação, focado e detalhista.
+                             Carreira iniciada na área da engenharia eletrônica com mais de 6 anos de experiência, migrando para área de tecnologia, experiências com a função de automação de testes e também desenvolvimento fullstack. 
                             <br>
                             Admirador de tecnologia da informação, sempre atualizado com novas tecnologias.  
                             <br>
@@ -270,6 +252,7 @@ $msg = $_REQUEST['msg'];*/
 
     <!-- INICIO DO CODIGO "EXPERIENCIA" -->
     <div id="experience" class="background-alt">
+        
         
         <h2 class="heading">Experiência</h2>
         <div id="experience-timeline">
