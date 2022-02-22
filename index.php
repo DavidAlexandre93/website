@@ -172,9 +172,9 @@ $msg = $_REQUEST['msg'];*/
             <h1>David Alexandre Fernandes</h1>
             <h2>Fullstack Developer | Software Quality | Cloud Computing</h2><h2>Download Currículo</h2>
             
-            <a href="https://drive.google.com/file/d/1Etd6P837bMmAgI4f0XlHZ-74bgOQDFQY/view?usp=sharing"><img src="images/brasil.png" alt=""></a>
+            <a href="https://drive.google.com/file/d/1Rx97ZQ8RBcMFVyngu-eNKQpMd4l_XMp7/view?usp=sharing"><img src="images/brasil.png" alt=""></a>
             
-             <a href="https://drive.google.com/file/d/1-i6Z5QQjFlL6LylWBU0MPnNk4fYjyV2e/view?usp=sharing"><img src="images/eua.png" alt=""></a>
+             <a href="https://drive.google.com/file/d/1GcU7baV9JJcWcrJwdlhYViocWdZagEdL/view?usp=sharing"><img src="images/eua.png" alt=""></a>
              
              <br><br><br>
             <a href="tela-login-cadastro.php" style="margin-bottom:1%" id="clickevent" class="btn-rounded-white shadow-large"><b>Page I.T</b></a>
