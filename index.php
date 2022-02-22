@@ -170,7 +170,7 @@ $msg = $_REQUEST['msg'];*/
 
           <!-- INICIO DO SUBTITULO DA FOTO DO PERFIL E LINKS DE CURRÍCULO -->
             <h1>David Alexandre Fernandes</h1>
-            <h2>Fullstack Developer | Software Quality | Cloud Computing</h2><h2>Download Currículo</h2>
+            <h2>Fullstack Developer | Software Quality | Cloud Computing | Artificial Intelligence (AI) | Blockchain(NFT/Metaverse)</h2><h2>Download Currículo</h2>
             
             <a href="https://drive.google.com/file/d/1Rx97ZQ8RBcMFVyngu-eNKQpMd4l_XMp7/view?usp=sharing"><img src="images/brasil.png" alt=""></a>
             
