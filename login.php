@@ -11,7 +11,7 @@ $sql = "select count(*) as totallogin from usuario where login = '{$login}' && s
 $result = mysqli_query($conexao, $sql);
 $row = mysqli_fetch_assoc($result);
 
-if($row['totallogin'] == 1) {
+if($row['totallogin'] == 0) {
 
 $_SESSION['login'] = $usuario_bd['login'];
 
