@@ -30,7 +30,7 @@ $msg = $_REQUEST['msg'];*/
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-    
+
     <!-- CÓDIGO TESTE PARA CONTABILIZAR VISITAS NO SITE -->
    <!-- <script language="javascript"> 
       function setCookie(nome, valor, dias){ 
@@ -667,6 +667,11 @@ $msg = $_REQUEST['msg'];*/
     <!-- SCRIPT PARA CODIGO JQUERY -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="js/scripts.min.js"></script>
+
+<!-- clicky analictys para rastrear site -->
+<a title="Real Time Web Analytics" href="http://clicky.com/101355529"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async src="//static.getclicky.com/101355529.js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101355529ns.gif" /></p></noscript>
  
 </body>
 <!-- FIM DO BODY -->
