@@ -239,8 +239,9 @@ $msg = $_REQUEST['msg'];*/
                 <div class="col-md-10">
                     <p>      
                              <br>
-                             27 anos, natural do estado do Mato Grosso e atualmente residindo na região metropolitana de São Paulo, formado em técnico eletrônico e técnico em informática pela instituição ETEC, atualmente cursando Ciência da Computação no Centro Universitário UNASP, realizando inúmeros cursos de especialização relacionados a diversas tecnologias; entusiasta da tecnologia da informação, focado e detalhista.
-                             Carreira iniciada na área da engenharia eletrônica com mais de 6 anos de experiência, migrando para área de tecnologia, experiências com a função de automação de testes e também desenvolvimento fullstack. 
+                             28 anos, natural do estado do Mato Grosso e atualmente residindo na região metropolitana de São Paulo, formado em técnico eletrônico e técnico em desenvolvimento de sistemas pela instituição ETEC, atualmente cursando Ciência da Computação no Centro Universitário UNASP, realizando inúmeros cursos de especialização relacionados a diversas tecnologias; entusiasta da tecnologia da informação, focado e detalhista. 
+
+                             Carreira iniciada na área da engenharia eletrônica com mais de 5 anos de experiência, migrando para área de tecnologia já com 4 anos de experiência, iniciando na função de automação de testes e também desenvolvimento full stack, atualmente atuando como desenvolvedor full cycle, envolvendo DevOps e SRE, prestando suporte e serviços para o mundo do blockchain(NFT) metaverso e Inteligência Artificial.
                             <br>
                             Admirador de tecnologia da informação, sempre atualizado com novas tecnologias.  
                             <br>
